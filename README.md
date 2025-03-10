@@ -1,2 +1,2 @@
 # Servicios-Financieros
-Landinpage de una agencia de seguros y créditos
+Landingpage de una agencia de seguros y créditos
